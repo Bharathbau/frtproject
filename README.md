@@ -40,9 +40,9 @@ as our solution we made a webpage that where we kept all our pdfs and their clou
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
-![Screenshot 2022-07-25 at 6 55 32 PM](https://user-images.githubusercontent.com/69979237/180792693-3d3ff0b4-7f03-436a-9b22-b0098d082c4a.jpg)
+![Screenshot 2022-09-16 190234](https://user-images.githubusercontent.com/108449691/190651401-058c117b-f9df-4b7f-a37e-c9baada4b4cb.png)
+![Screenshot_2022-09-16-19-04-08-598_com android chrome](https://user-images.githubusercontent.com/108449691/190651858-7241b263-298d-497d-84c4-b9593bf96524.jpg)
 
-![WhatsApp Image 2022-07-25 at 7 04 29 PM](https://user-images.githubusercontent.com/69979237/180792971-ef75a3bc-113e-4923-9787-a69ea26089bc.jpeg)
 
 # About Us
 We are BTech pursuing Students,from both 4th and #rd year we consider this as problem as we facing the same situtaion regularly.our team
